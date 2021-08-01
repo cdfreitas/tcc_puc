@@ -1,0 +1,537 @@
+Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição;;
+;;3R PETROLEUM;RRRP;NM             
+;;COSAN       ;CSAN;NM             
+;;DOMMO;DMMO;
+;;ENAUTA PART;ENAT;NM             
+;;PET MANGUINH;RPMG;
+;;PETROBRAS   ;PETR;N2
+;;PETROBRAS BR;BRDT;NM             
+;;PETRORECSA ;RECV;NM             
+;;PETRORIO;PRIO;NM             
+;;ULTRAPAR    ;UGPA;NM             
+;;Equipamentos e Serviços;;
+;;LUPATECH    ;LUPA;NM             
+;;OCEANPACT;OPCT;NM             
+;;OSX BRASIL  ;OSXB;NM             
+Materiais Básicos;Mineração;Minerais Metálicos;;
+;;BRADESPAR   ;BRAP;N1             
+;;CSNMINERACAO;CMIN;N2            
+;;LITEL       ;LTEL;MB             
+;;LITELA;LTLA;MB             
+;;MMX MINER   ;MMXM;NM             
+;;VALE        ;VALE;NM             
+;Siderurgia e Metalurgia;Siderurgia;;
+;;FERBASA     ;FESA;N1             
+;;GERDAU      ;GGBR;N1             
+;;GERDAU MET  ;GOAU;N1             
+;;SID NACIONAL;CSNA;
+;;USIMINAS    ;USIM;N1             
+;;Artefatos de Ferro e Aço;;
+;;MANGELS INDL;MGEL;
+;;PANATLANTICA;PATI;
+;;TEKNO       ;TKNO;
+;;Artefatos de Cobre;;
+;;PARANAPANEMA;PMAM;NM             
+;Químicos;Petroquímicos;;
+;;BRASKEM     ;BRKM;N1             
+;;GPC PART    ;GPCP;
+;;Fertilizantes e Defensivos;;
+;;FER HERINGER;FHER;NM             
+;;NUTRIPLANT  ;NUTR;MA             
+;;Químicos Diversos;;
+;;CRISTAL;CRPG;
+;;UNIPAR      ;UNIP;
+;Madeira e Papel;Madeira;;
+;;DURATEX     ;DTEX;NM             
+;;EUCATEX     ;EUCA;N1             
+;;Papel e Celulose;;
+;;IRANI ;RANI;
+;;KLABIN S/A  ;KLBN;N2
+;;MELHOR SP   ;MSPA;
+;;SUZANO HOLD ;NEMO;
+;;SUZANO S.A.;SUZB;NM             
+;Embalagens;Embalagens;;
+;;METAL IGUACU;MTIG;
+;Materiais Diversos;Materiais Diversos;;
+;;SANSUY      ;SNSY;
+Bens Industriais;Construção e Engenharia;Produtos para Construção;;
+;;ETERNIT     ;ETER;NM             
+;;HAGA S/A    ;HAGA;
+;;PORTOBELLO  ;PTBL;NM             
+;;Construção Pesada;;
+;;AZEVEDO     ;AZEV;
+;;Engenharia Consultiva;;
+;;SONDOTECNICA;SOND;
+;;TECNOSOLO   ;TCNO;
+;;Serviços Diversos;;
+;;MILLS       ;MILS;NM             
+;Material de Transporte;Material Aeronáutico e de Defesa;;
+;;EMBRAER     ;EMBR;NM             
+;;Material Rodoviário;;
+;;FRAS-LE     ;FRAS;N1             
+;;MARCOPOLO   ;POMO;N2             
+;;RANDON PART ;RAPT;N1             
+;;RECRUSUL    ;RCSL;
+;;RIOSULENSE  ;RSUL;
+;;TUPY        ;TUPY;NM             
+;;WETZEL S/A  ;MWET;
+;Máquinas e Equipamentos;Motores, Compressores e Outros;;
+;;SCHULZ      ;SHUL;
+;;WEG         ;WEGE;NM             
+;;Máq. e Equip. Industriais;;
+;;ACO ALTONA  ;EALT;
+;;AERIS;AERI;NM             
+;;BARDELLA    ;BDLL;
+;;INDS ROMI   ;ROMI;NM             
+;;INEPAR      ;INEP;
+;;KEPLER WEBER;KEPL;
+;;METALFRIO   ;FRIO;NM             
+;;NORDON MET  ;NORD;
+;;PRATICA;PTCA;M2
+;;Máq. e Equip. Construção e Agrícolas;;
+;;METISA      ;MTSA;
+;;STARA;STTR;MA
+;;Armas e Munições;;
+;;TAURUS ARMAS;TASA;N2             
+;Transporte;Transporte Aéreo;;
+;;AZUL;AZUL;N2             
+;;GOL         ;GOLL;N2             
+;;Transporte Ferroviário;;
+;;ALL NORTE   ;FRRN;MB             
+;;ALL PAULISTA;GASC;MB             
+;;COSAN LOG;RLOG;NM             
+;;FER C ATLANT;VSPT;
+;;MRS LOGIST  ;MRSA;MB             
+;;RUMO S.A.;RAIL;NM             
+;;Transporte Hidroviário;;
+;;HIDROVIAS;HBSA;NM             
+;;LOG-IN      ;LOGN;NM             
+;;TREVISA     ;LUXM;
+;;Transporte Rodoviário;;
+;;JSL         ;JSLG;NM             
+;;TEGMA       ;TGMA;NM             
+;;Exploração de Rodovias;;
+;;AUTOBAN     ;ANHB;
+;;CCR SA      ;CCRO;NM             
+;;CONC RAPOSO ;RPTA;
+;;CONC RIO TER;CRTE;MB             
+;;ECON        ;ERDV;
+;;ECOPISTAS   ;ASCP;
+;;ECORODOVIAS ;ECOR;NM             
+;;ECOVIAS     ;ECOV;
+;;ROD COLINAS ;COLN;
+;;ROD TIETE   ;RDVT;
+;;RT BANDEIRAS;CRBD;
+;;TRIANGULOSOL;TRIA;
+;;TRIUNFO PART;TPIS;NM             
+;;VIAOESTE    ;VOES;
+;;Serviços de Apoio e Armazenagem;;
+;;GRUAIRPORT;AGRU;MB             
+;;PORTO VM;PSVM;
+;;INVEPAR     ;IVPR;MB             
+;;SALUS INFRA;SAIP;
+;;SANTOS BRP  ;STBP;N2             
+;;WILSON SONS ;WSON;DR3
+;Serviços Diversos;Serviços Diversos;;
+;;ATMASA;ATMP;NM             
+;;BBMLOGISTICA;BBML;MA
+;;DTCOM-DIRECT;DTCY;
+;;ESTAPAR;ALPK;NM             
+;;FLEX S/A;FLEX;MA
+;;GPS;GGPS;NM             
+;;PRINER;PRNR;MA
+;;SEQUOIA LOG;SEQL;NM             
+;;VALID       ;VLID;NM             
+;Comércio;Material de Transporte;;
+;;BATTISTELLA ;BTTL;
+;;MINASMAQUINA;MMAQ;
+;;WLM IND COM ;WLMM;
+Consumo não Cíclico;Agropecuária;Agricultura;;
+;;ALIPERTI    ;APTI;
+;;BOA SAFRA;SOJA;NM             
+;;BRASILAGRO  ;AGRO;NM             
+;;POMIFRUTAS;FRTA;NM             
+;;SLC AGRICOLA;SLCE;NM             
+;;TERRA SANTA;TESA;NM             
+;Alimentos Processados;Açucar e Alcool;;
+;;BIOSEV;BSEV;NM             
+;;JALLESMACHAD;JALL;NM             
+;;RAIZEN ENERG;RESA;
+;;SAO MARTINHO;SMTO;NM             
+;;Carnes e Derivados;;
+;;BRF SA   ;BRFS;NM             
+;;EXCELSIOR   ;BAUH;
+;;JBS         ;JBSS;NM             
+;;MARFRIG     ;MRFG;NM             
+;;MINERVA     ;BEEF;NM             
+;;MINUPAR     ;MNPR;
+;;Alimentos Diversos;;
+;;CAMIL;CAML;NM             
+;;J.MACEDO    ;JMCD;
+;;JOSAPAR     ;JOPA;
+;;M.DIASBRANCO;MDIA;NM             
+;;ODERICH     ;ODER;
+;Bebidas;Cervejas e Refrigerantes;;
+;;AMBEV S/A;ABEV;
+;Produtos de Uso Pessoal e de Limpeza;Produtos de Uso Pessoal;;
+;;GRUPO NATURA      ;NTCO;NM             
+;;Produtos de Limpeza;;
+;;BOMBRIL     ;BOBR;
+;Comércio e Distribuição;Alimentos;;
+;;ASSAI;ASAI;NM             
+;;CARREFOUR BR;CRFB;NM             
+;;GRUPO MATEUS;GMAT;NM             
+;;P.ACUCAR-CBD;PCAR;N1             
+Consumo Cíclico;Construção Civil;Incorporações;;
+;;ALPHAVILLE;AVLL;NM             
+;;CONST A LIND;CALI;
+;;CR2         ;CRDE;NM             
+;;CURY S/A;CURY;NM             
+;;CYRELA REALT;CYRE;NM             
+;;DIRECIONAL  ;DIRR;NM             
+;;EVEN        ;EVEN;NM             
+;;EZTEC       ;EZTC;NM             
+;;GAFISA      ;GFSA;NM             
+;;HELBOR      ;HBOR;NM             
+;;INTER SA ;INNT;MA
+;;JHSF PART   ;JHSF;NM             
+;;JOAO FORTES ;JFEN;
+;;LAVVI;LAVV;NM             
+;;MELNICK;MELK;NM             
+;;MITRE REALTY;MTRE;NM             
+;;MOURA DUBEUX;MDNE;NM             
+;;MRV         ;MRVE;NM             
+;;PDG REALT   ;PDGR;NM             
+;;PLANOEPLANO;PLPL;NM             
+;;RNI;RDNI;NM             
+;;ROSSI RESID ;RSID;NM             
+;;TECNISA     ;TCSA;NM             
+;;TENDA;TEND;NM             
+;;TRISUL      ;TRIS;NM             
+;;VIVER       ;VIVR;NM             
+;Tecidos, Vestuário e Calçados;Fios e Tecidos;;
+;;CEDRO       ;CEDO;N1             
+;;COTEMINAS   ;CTNM;
+;;DOHLER      ;DOHL;
+;;ENCORPAR    ;ECPR;
+;;IND CATAGUAS;CATA;
+;;KARSTEN     ;CTKA;
+;;PETTENATI   ;PTNT;
+;;SANTANENSE  ;CTSA;
+;;SPRINGS     ;SGPS;NM             
+;;TEKA        ;TEKA;
+;;TEX RENAUX  ;TXRX;
+;;Vestuário;;
+;;CIA HERING  ;HGTX;NM             
+;;TRACK FIELD;TFCO;N2
+;;Calçados;;
+;;ALPARGATAS  ;ALPA;N1             
+;;CAMBUCI     ;CAMB;
+;;GRENDENE    ;GRND;NM             
+;;VULCABRAS   ;VULC;NM             
+;;Acessórios;;
+;;MUNDIAL     ;MNDL;
+;;TECHNOS     ;TECN;NM             
+;;VIVARA S.A.;VIVA;NM             
+;Utilidades Domésticas;Eletrodomésticos;;
+;;WHIRLPOOL   ;WHRL;
+;;Móveis;;
+;;UNICASA;UCAS;NM             
+;;Utensílios Domésticos;;
+;;HERCULES    ;HETA;
+;Automóveis e Motocicletas;Automóveis e Motocicletas;;
+;;IOCHP-MAXION;MYPK;NM             
+;;METAL LEVE  ;LEVE;NM             
+;;PLASCAR PART;PLAS;
+;Hoteis e Restaurantes;Hotelaria;;
+;;HOTEIS OTHON;HOOT;
+;;Restaurante e Similares;;
+;;BK BRASIL;BKBR;NM             
+;;IMC S/A;MEAL;NM             
+;Viagens e Lazer;Bicicletas;;
+;;BIC MONARK  ;BMKS;
+;;Brinquedos e Jogos;;
+;;ESTRELA     ;ESTR;
+;;Produção de Eventos e Shows;;
+;;SPTURIS     ;AHEB;
+;;TIME FOR FUN;SHOW;NM             
+;;Viagens e Turismo;;
+;;CVC BRASIL;CVCB;NM             
+;;Atividades Esportivas;;
+;;SMART FIT;SMFT;M2
+;Diversos;Serviços Educacionais;;
+;;ANIMA;ANIM;NM             
+;;BAHEMA      ;BAHI;MA
+;;COGNA ON;COGN;NM             
+;;CRUZEIRO EDU;CSED;NM             
+;;SER EDUCA;SEER;NM             
+;;YDUQS PART;YDUQ;NM             
+;;Aluguel de carros;;
+;;LOCALIZA    ;RENT;NM             
+;;LOCAMERICA;LCAM;NM             
+;;MAESTROLOC;MSRO;M2
+;;MOVIDA;MOVI;NM             
+;;UNIDAS      ;UNID;
+;;VAMOS;VAMO;NM             
+;;Programas de Fidelização;;
+;;SMILES;SMLS;NM             
+;Comércio;Tecidos, Vestuário e Calçados;;
+;;AREZZO CO   ;ARZZ;NM             
+;;CEA MODAS;CEAB;NM             
+;;GRAZZIOTIN  ;CGRA;
+;;GRUPO SOMA;SOMA;NM             
+;;GUARARAPES  ;GUAR;
+;;LE LIS BLANC;LLIS;NM             
+;;LOJAS MARISA;AMAR;NM             
+;;LOJAS RENNER;LREN;NM             
+;;Eletrodomésticos;;
+;;ALLIED;ALLD;NM             
+;;MAGAZ LUIZA ;MGLU;NM             
+;;VIAVAREJO;VVAR;NM             
+;;Produtos Diversos;;
+;;B2W DIGITAL;BTOW;NM             
+;;CENTAURO;CNTO;NM             
+;;ESPACOLASER;ESPA;NM             
+;;LOJAS AMERIC;LAME;N1             
+;;PETZ;PETZ;NM             
+;;QUERO-QUERO;LJQQ;NM             
+;;SARAIVA LIVR;SLED;N2             
+Saúde;Medicamentos e Outros Produtos;Medicamentos e Outros Produtos;;
+;;BIOMM       ;BIOM;MA
+;;NORTCQUIMICA;NRTQ;MA
+;;OUROFINO S/A;OFSA;NM             
+;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos;;
+;;ALLIAR;AALR;NM             
+;;DASA        ;DASA;
+;;FLEURY      ;FLRY;NM             
+;;HAPVIDA;HAPV;NM             
+;;IHPARDINI;PARD;NM             
+;;INTERMEDICA;GNDI;NM             
+;;MATER DEI;MATD;NM             
+;;ODONTOPREV  ;ODPV;NM             
+;;QUALICORP   ;QUAL;NM             
+;;REDE D OR;RDOR;NM             
+;Equipamentos;Equipamentos;;
+;;BAUMER      ;BALM;
+;;LIFEMED;LMED;MA
+;Comércio e Distribuição;Medicamentos e Outros Produtos;;
+;;BLAU;BLAU;NM             
+;;DIMED       ;PNVL;
+;;D1000VFARMA;DMVF;NM             
+;;HYPERA;HYPE;NM             
+;;PAGUE MENOS;PGMN;NM             
+;;PROFARMA    ;PFRM;NM             
+;;RAIADROGASIL    ;RADL;NM             
+Tecnologia da Informação;Computadores e Equipamentos;Computadores e Equipamentos;;
+;;INTELBRAS;INTB;NM             
+;;POSITIVO TEC;POSI;NM             
+;Programas e Serviços;Programas e Serviços;;
+;;BEMOBI TECH;BMOB;NM             
+;;BRQ;BRQB;MA
+;;ENJOEI;ENJU;NM             
+;;INFRACOMM;IFCM;NM             
+;;LINX;LINX;NM             
+;;LOCAWEB;LWSA;NM             
+;;MELIUZ;CASH;NM             
+;;MOBLY;MBLY;NM             
+;;MOSAICO;MOSI;NM             
+;;NEOGRID;NGRD;NM             
+;;QUALITY SOFT;QUSW;MA
+;;SINQIA;SQIA;NM             
+;;TOTVS       ;TOTS;NM             
+;;WESTWING;WEST;NM             
+Comunicações;Telecomunicações;Telecomunicações;;
+;;ALGAR TELEC;ALGT;
+;;OI;OIBR;N1
+;;TELEBRAS    ;TELB;
+;;TELEF BRASIL;VIVT;
+;;TIM;TIMS;NM             
+;Mídia;Produção e Difusão de Filmes e Programas;;
+;;CINESYSTEM;CNSY;MA
+;;Publicidade e Propaganda;;
+;;ELETROMIDIA;ELMD;NM             
+Utilidade Pública;Energia Elétrica;Energia Elétrica;;
+;;AES BRASIL;AESB;NM             
+;;AES SUL     ;AESL;
+;;AFLUENTE T  ;AFLT;
+;;ALUPAR;ALUP;N2             
+;;AMPLA ENERG ;CBEE;
+;;CACHOEIRA;CPTE;MB             
+;;CEB         ;CEBR;
+;;CEEE-D      ;CEED;N1             
+;;CEEE-GT     ;EEEL;N1             
+;;CELESC      ;CLSC;N2             
+;;CELGPAR     ;GPAR;
+;;CELPE       ;CEPE;
+;;CEMIG       ;CMIG;N1             
+;;CEMIG DIST  ;CMGD;
+;;CEMIG GT    ;CMGT;
+;;CESP        ;CESP;N1             
+;;COELBA      ;CEEB;
+;;COELCE      ;COCE;
+;;COPEL       ;CPLE;N1             
+;;COSERN      ;CSRN;
+;;CPFL ENERGIA;CPFE;NM             
+;;CPFL GERACAO;CPFG;
+;;CPFL PIRATIN;CPFP;
+;;CPFL RENOVAV;CPRE;
+;;EBE         ;EBEN;
+;;ELEKTRO     ;EKTR;
+;;ELETROBRAS  ;ELET;N1             
+;;ELETROPAR   ;LIPR;
+;;EMAE        ;EMAE;
+;;ENERGIAS BR ;ENBR;NM             
+;;ENERGISA    ;ENGI;N2             
+;;ENERGISA MT;ENMT;
+;;ENERSUL     ;ENER;
+;;ENEVA;ENEV;NM             
+;;ENGIE BRASIL;EGIE;NM             
+;;EQTL PARA;EQPA;
+;;EQTLMARANHAO;EQMA;MB             
+;;EQUATORIAL  ;EQTL;NM             
+;;ESCELSA     ;ESCE;
+;;FGENERGIA;FGEN;
+;;FOCUS ON;POWE;NM             
+;;GER PARANAP ;GEPA;
+;;ITAPEBI     ;ITPB;
+;;LIGHT       ;LIGH;
+;;LIGHT S/A   ;LIGT;NM             
+;;NEOENERGIA  ;NEOE;NM             
+;;OMEGA GER;OMGE;NM             
+;;PAUL F LUZ  ;PALF;
+;;PROMAN      ;PRMN;MB             
+;;REDE ENERGIA;REDE;
+;;RENOVA      ;RNEW;N2             
+;;STATKRAFT;STKF;
+;;STO ANTONIO;STEN;
+;;TAESA       ;TAEE;N2             
+;;TERMOPE     ;TMPE;
+;;TERM. PE III;TEPE;
+;;TRAN PAULIST;TRPL;N1             
+;;UPTICK      ;UPKP;MB             
+;Água e Saneamento;Água e Saneamento;;
+;;AMBIPAR;AMBP;NM             
+;;CASAN       ;CASN;
+;;COPASA      ;CSMG;NM             
+;;IGUA SA  ;IGSN;MA
+;;ORIZON;ORVR;NM             
+;;SABESP      ;SBSP;NM             
+;;SANEPAR     ;SAPR;N2             
+;;SANESALTO   ;SNST;
+;Gás;Gás;;
+;;CEG         ;CEGR;
+;;COMGAS      ;CGAS;
+Financeiro;Intermediários Financeiros;Bancos;;
+;;ABC BRASIL  ;ABCB;N2             
+;;ALFA HOLDING;RPAD;
+;;ALFA INVEST ;BRIV;
+;;AMAZONIA    ;BAZA;
+;;BANCO BMG;BMGB;N1             
+;;BANCO INTER;BIDI;N2             
+;;BANCO PAN;BPAN;N1             
+;;BANESE      ;BGIP;
+;;BANESTES    ;BEES;
+;;BANPARA     ;BPAR;
+;;BANRISUL    ;BRSR;N1             
+;;BRADESCO    ;BBDC;N1             
+;;BRASIL      ;BBAS;NM             
+;;BRB BANCO   ;BSLI;
+;;BTGP BANCO;BPAC;
+;;ITAUSA      ;ITSA;N1             
+;;ITAUUNIBANCO;ITUB;N1             
+;;MERC BRASIL ;BMEB;
+;;MERC INVEST ;BMIN;
+;;MODALMAIS;MODL;N2             
+;;NORD BRASIL ;BNBR;
+;;PARANA      ;PRBC;
+;;PINE        ;PINE;N2             
+;;SANTANDER BR;SANB;
+;;Soc. Crédito e Financiamento;;
+;;ALFA FINANC ;CRIV;
+;;FINANSINOS  ;FNCN;
+;;MERC FINANC ;MERC;
+;;Soc. Arrendamento Mercantil;;
+;;BRADESCO LSG;BDLS;
+;;DIBENS LSG  ;DBEN;
+;Securitizadoras de Recebíveis;Securitizadoras de Recebíveis;;
+;;BRAZIL REALT;BZRS;
+;;BRAZILIAN SC;BSCS;
+;;BRPR 56 SEC;WTVR;
+;;CIBRASEC;CBSC;
+;;ECO SEC AGRO;ECOA;MB             
+;;GAIA AGRO   ;GAFL;
+;;GAIA SECURIT;GAIA;MB             
+;;OCTANTE SEC;OCTS;
+;;PDG SECURIT ;PDGS;
+;;POLO CAP SEC;PLSC;
+;;RBCAPITALRES;RBRA;MB             
+;;TRUESEC;APCS;
+;;VERTCIASEC;VERT;
+;;WTORRE PIC  ;WTPI;
+;Serviços Financeiros Diversos;Gestão de Recursos e Investimentos;;
+;;BNDESPAR    ;BNDP;MB             
+;;BRAZILIAN FR;BFRE;
+;;GP INVEST   ;GPIV;DR3
+;;PADTEC;PDTC;NM             
+;;PPLA;PPLA;DR3
+;;Serviços Financeiros Diversos;;
+;;B3 ;B3SA;NM             
+;;BOA VISTA;BOAS;NM             
+;;CIELO       ;CIEL;NM             
+;;CSU CARDSYST;CARD;NM             
+;Previdência e Seguros;Seguradoras;;
+;;ALFA CONSORC;BRGE;
+;;BBSEGURIDADE;BBSE;NM             
+;;CAIXA SEGURI;CXSE;NM             
+;;IRBBRASIL RE;IRBR;NM             
+;;PORTO SEGURO;PSSA;NM             
+;;SEG AL BAHIA;CSAB;
+;;SUL AMERICA ;SULA;N2             
+;;Corretoras de Seguros;;
+;;ALPER S.A.;APER;NM             
+;;WIZ S.A.;WIZS;NM             
+;Exploração de Imóveis;Exploração de Imóveis;;
+;;ALIANSCSONAE;ALSO;NM             
+;;BR MALLS PAR;BRML;NM             
+;;BR PROPERT  ;BRPR;NM             
+;;COR RIBEIRO ;CORR;
+;;CYRE COM-CCP;CCPR;NM             
+;;GENERALSHOPP;GSHP;NM             
+;;HABITASUL   ;HBTS;
+;;HBR REALTY;HBRE;NM             
+;;IGB S/A     ;IGBR;
+;;IGUATEMI    ;IGTA;NM             
+;;JEREISSATI  ;JPSA;
+;;LOG COM PROP;LOGG;NM             
+;;MENEZES CORT;MNZC;MB             
+;;MULTIPLAN   ;MULT;N2             
+;;SAO CARLOS  ;SCAR;NM             
+;;Intermediação Imobiliária;;
+;;BR BROKERS  ;BBRK;NM             
+;;LOPES BRASIL;LPSB;NM             
+;Holdings Diversificadas;Holdings Diversificadas;;
+;;MONT ARANHA ;MOAR;
+;;PAR AL BAHIA;PEAB;
+;;SIMPAR;SIMH;NM             
+;Outros Títulos;Outros Títulos;;
+;;CEPAC - CTBA;CTBA;MB             
+;;CEPAC - MCRJ;MCRJ;MB             
+;;CEPAC - PMSP;PMSP;MB             
+Outros;Outros;Outros;;
+;;524 PARTICIP;QVQP;MB             
+;;ALEF S/A    ;ALEF;MB             
+;;ATOMPAR;ATOM;
+;;BETAPART    ;BETP;MB             
+;;CABINDA PART;CABI;MB             
+;;CACONDE PART;CACO;MB             
+;;CEMEPE      ;MAPT;
+;;CIMS        ;CMSA;
+;;GAMA PART   ;OPGM;MB             
+;;INVEST BEMGE;FIGE;
+;;J B DUARTE  ;JBDU;
+;;MGI PARTICIP;MGIP;
+;;OPPORT ENERG;OPHE;MB             
+;;POLPAR      ;PPAR;
+;;PROMPT PART ;PRPT;MB             
+;;SUDESTE S/A ;OPSE;MB             
+;;SUL 116 PART;OPTS;MB             
